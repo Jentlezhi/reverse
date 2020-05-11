@@ -1,0 +1,10 @@
+Package: com.jentle.tweak
+Name: tweak_evplayer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jentle
+Author: Jentle
+Section: Tweaks
+Version: 0.0.1-18+debug
+Installed-Size: 152

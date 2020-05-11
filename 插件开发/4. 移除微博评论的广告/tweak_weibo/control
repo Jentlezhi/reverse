@@ -1,0 +1,9 @@
+Package: com.jentle.tweakweibo
+Name: tweak_weibo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jentle
+Author: Jentle
+Section: Tweaks
